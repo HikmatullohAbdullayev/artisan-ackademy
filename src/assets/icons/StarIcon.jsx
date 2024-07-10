@@ -1,6 +1,6 @@
 import React from 'react';
 
-function StarIcon(props) {
+function StarIcon() {
     return (
   <svg width="32.335938" height="30.753418" viewBox="0 0 32.3359 30.7534" fill="none" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
   <desc>

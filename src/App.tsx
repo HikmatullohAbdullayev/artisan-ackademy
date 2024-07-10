@@ -1,9 +1,9 @@
-import React from 'react';
+// import React from 'react';
 
-function App(props) {
+function App() {
   return (
     <div>
-      
+      <h2>nimagap</h2>
     </div>
   );
 }
